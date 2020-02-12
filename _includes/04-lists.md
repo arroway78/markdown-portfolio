@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. A hat
+2. A sweater
+3. A pencil
